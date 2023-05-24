@@ -341,8 +341,8 @@ button {
     bottom: 0;
 }
 .header__mobile-logo {
-    width: 130px;
-    height: 125px;
+    width: 100px;
+    height: 90px;
     margin-right: -200px;
 }
 .header__mobile-logo img {
