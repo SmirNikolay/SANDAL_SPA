@@ -1413,6 +1413,11 @@ button {
 .video {
     padding-bottom: 200px;
 }
+@media (max-width:1180px) {
+    .video {
+    padding-bottom: 100px;
+}
+}
 .video__block {
     width: 100%;
     height: 621px;
